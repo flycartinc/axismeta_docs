@@ -12,19 +12,20 @@ There are several sections includes in AxisMeta. Sections are given below
 <a name="control_panel"></a>
 #### Control Panel
 
-It is the dashboard of AxisMeta. It displays to you the total number of Articles, Menus, Categories in your site. Refer the below image
+It is the dashboard of AxisMeta. It will display you the total number of Articles, Menus, Categories in your site. Refer the below image
 
 ![Dashboard Configuration1](./assets/images/Selection_014.png)
 
 <a name="Articles"></a>
 ####Articles
-**NOTE:**The Article tab which display what are all articles presented in our site with some special options.
+**NOTE:**The Article tab will display you all the articles which are created in your site with the following options:
 
-    Four options available. Based on the option selectedthe article will edited.
     1. Search Engine Tittle
     2. Description
     3. Keywords
     4. Author
+
+Here itself you can add the Meta description, keywords and all to all the articles. No need to open the article one by one to update.
 
 * ***Search Engine Tittle***
 A title tag is the main text that describes an online document. Title elements have long been considered one of the most important on-page SEO elements (the most important being overall content), and appear in three key places: browsers, search engine results pages, and external websites.
@@ -45,7 +46,7 @@ Refer the below image for your better understanding about the options presented 
 <a name="Menus"></a>
 ####Menus
 
- The Menu Tab will list the all menus all the Menus present in our site.If you want to Edit The menu means you can archive that through the options presented in the menu tab.
+ The Menu Tab will list the all menus which you have created in your site. If you want to Edit the menu means you can archive that through the options presented in the menu tab.
 
  Refer the below image for getting more details about Menus.
 
@@ -54,7 +55,7 @@ Refer the below image for your better understanding about the options presented 
 <a name="categories"></a>
 ####Categories
 
- The category Tab will display the list of categories presented in the site.If you want editb the category means you can archive that through some options present in the categories tab.
+ The category Tab will display the list of categories created in the site.If you want to edit the category means you can archive that through some options present in the categories tab.
 
  Refer the below image
  ![Category Tab](./assets/images/Selection_004.png)
@@ -77,19 +78,18 @@ Refer the below image
 
 <a name="configuration"></a>
 ####configuration
-​
+
 There are several options available for your axis meta. Any mis-configuration here will affect your sitefront's behaviour. So take your time and configure the axis meta correctly.
-​
+
 The configuration page has several tabs. Each one is explained in detail. They are:
 
 ## Basic options
 
 Some basic settings need to be done before you proceed. This will be handled by the following options.
-​
+
  * ***Canonical URL***
 This article describes how you can use canonical URLs to improve link and ranking signals for content available through multiple URL structures or via syndication.
-​
+
 Refer the Below image
-​
+
 ![canonical URL](./assets/images/Selection_007.png)
-​
