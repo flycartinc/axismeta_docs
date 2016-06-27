@@ -2,7 +2,7 @@
 
 Technical requirements for AxisMeta:
 
-* P 5.3.10 or greater
+* PHP 5.3.10 or greater
 
 * SQL 5 or greater
 
