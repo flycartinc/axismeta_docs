@@ -1,13 +1,12 @@
-<a name="Articles"></a>
-####Articles
+# Articles
 
-**NOTE:**The Article tab which display what are all articles presented in our site with some special options.
+**NOTE:**The Article tab which displays all the articles available in your site with following options:
 
     Four options available. Based on the option selectedthe article will edited.
-    1. **Search Engine Tittle**
-    2. **Description**
-    3. **Keywords**
-    4. **Author**
+    1. Search Engine Tittle
+    2. Description
+    3. Keywords
+    4. Author
 
 * ***Search Engine Tittle***
 A title tag is the main text that describes an online document. Title elements have long been considered one of the most important on-page SEO elements (the most important being overall content), and appear in three key places: browsers, search engine results pages, and external websites.
