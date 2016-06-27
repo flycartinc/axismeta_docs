@@ -1,12 +1,8 @@
-<a name="configuration"></a>
-####configuration
+#Configuration
 
-There are several options available for your axis meta. Any mis-configuration here will affect your sitefront's behaviour. So take your time and configure the axis meta correctly.
+There are several options available for your axis meta. Any mis-configuration here will affect your sitefront's behaviour. So please be careful when configuring Axis Meta.
 
-The configuration page has several tabs. Each one is explained in detail. They are:
-
-* **[Basic options](#basic_options)**
-
+There is no much difficult and complex configuration settings in Axis Meta.
 
 <a name="basic_options"></a>
 ## Basic options
