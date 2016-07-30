@@ -2,12 +2,12 @@
 
 There are several sections includes in AxisMeta. Sections are given below
 
-**[Control Panel](#control_panel)**
-**[Article Meta Data](#article_metadata)**
-**[Menu Meta Data](#menu_metadata)**
-**[Category Meta Data](#category_metadata)**
-**[Configuration](#configuration)**
-**[Apps](#apps)**
+* **[Control Panel](#control_panel)**
+* **[Articles](#article_metadata)**
+* **[Menus](#menu_metadata)**
+* **[Categories](#category_metadata)**
+* **[Configuration](#configuration)**
+* **[Apps](#apps)**
 
 <a name="control_panel"></a>
 #### Control Panel
@@ -16,7 +16,7 @@ It is the dashboard of AxisMeta. It will display you the total number of Article
 
 ![Dashboard Configuration1](./assets/images/Selection_014.png)
 
-<a name="Articles"></a>
+<a name="article_metadata"></a>
 ####Articles
 **NOTE:**The Article tab will display you all the articles which are created in your site with the following options:
 
@@ -43,7 +43,7 @@ Refer the below image for your better understanding about the options presented 
 
  ![Article Tab](./assets/images/Selection_02.png)
 
-<a name="Menus"></a>
+<a name="menu_metadata"></a>
 ####Menus
 
  The Menu Tab will list the all menus which you have created in your site. If you want to Edit the menu means you can archive that through the options presented in the menu tab.
@@ -52,7 +52,7 @@ Refer the below image for your better understanding about the options presented 
 
 ![Menu Tab](./assets/images/Selection_003.png)
 
-<a name="categories"></a>
+<a name="category_metadata"></a>
 ####Categories
 
  The category Tab will display the list of categories created in the site.If you want to edit the category means you can archive that through some options present in the categories tab.
@@ -60,7 +60,7 @@ Refer the below image for your better understanding about the options presented 
  Refer the below image
  ![Category Tab](./assets/images/Selection_004.png)
 
-<a name="Apps"></a>
+<a name="apps"></a>
 ####Apps
 
  AxisMeta just rolled out a couple of new apps that are going to make managing your online business even easier.
@@ -77,7 +77,7 @@ Refer the below image
 ![OpenGraphapp AxisMeta](./assets/images/Selection_006.png)
 
 <a name="configuration"></a>
-####configuration
+#### Configuration
 
 There are several options available for your axis meta. Any mis-configuration here will affect your sitefront's behaviour. So take your time and configure the axis meta correctly.
 
